@@ -1,4 +1,3 @@
-# Ignore model and prediction outputs
 models/
 predictions/
 energy_forecasting.ipynb
